@@ -10,3 +10,6 @@ So I add my version to master branch. Please check. Thanks.
 /** version 3.0 **/
 print("hi everyon")
 print("I can't use Korean in Github")
+
+/** practic 2017/4/19 **/
+Still, I can't write Korea text.
